@@ -10,7 +10,7 @@
         "Black Amda"
     ],
     "website": "https://amdaniwasa.com",
-    "logo": "https://amdaniwasa.com/assets/QAAppjson.gif",
+    "logo": "https://amdaniwasa.com/rahulchauhan8221/QAAppjson.gif",
     "success_url": "https://dashboard.heroku.com/apps/",
     "stack": "container",
     "env":{
